@@ -1,0 +1,1 @@
+Hi this project is used to track the location(country),service provider and identifying the map view just by the phone number.It is made with python and its libraries like geocoder,phonenumbers and folium
